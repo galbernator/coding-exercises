@@ -1,0 +1,1037 @@
+[
+    {
+        "id": 1,
+        "latitude": 37.7750,
+        "longitude": -122.4195,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "restaurant"
+            },
+            {
+                "type": "name",
+                "value": "Golden Gate Grill"
+            },
+            {
+                "type": "description",
+                "value": "A popular eatery with views of the bay."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 10.5
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "latitude": 37.7745,
+        "longitude": -122.4189,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "museum"
+            },
+            {
+                "type": "name",
+                "value": "San Francisco Museum of Modern Art"
+            },
+            {
+                "type": "description",
+                "value": "Contemporary art exhibits."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 5.0
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "latitude": 37.7752,
+        "longitude": -122.4198,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "park"
+            },
+            {
+                "type": "name",
+                "value": "Yerba Buena Gardens"
+            },
+            {
+                "type": "description",
+                "value": "Urban park with sculptures and waterfalls."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 8.0
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "latitude": 37.7740,
+        "longitude": -122.4200,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "landmark"
+            },
+            {
+                "type": "name",
+                "value": "Transamerica Pyramid"
+            },
+            {
+                "type": "description",
+                "value": "Iconic skyscraper in the Financial District."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 12.3
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "latitude": 37.7748,
+        "longitude": -122.4185,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "cafe"
+            },
+            {
+                "type": "name",
+                "value": "Union Square Cafe"
+            },
+            {
+                "type": "description",
+                "value": "Cozy cafe in the heart of downtown."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 3.7
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "latitude": 37.7760,
+        "longitude": -122.4170,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "bar"
+            },
+            {
+                "type": "name",
+                "value": "The Tipsy Albatross"
+            },
+            {
+                "type": "description",
+                "value": "Lively bar with craft beers."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 6.2
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "latitude": 37.7735,
+        "longitude": -122.4215,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "cafe"
+            },
+            {
+                "type": "name",
+                "value": "Cafe Roma"
+            },
+            {
+                "type": "description",
+                "value": "Cozy cafe with Italian pastries."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 2.5
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "latitude": 37.7770,
+        "longitude": -122.4188,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "cafe"
+            },
+            {
+                "type": "name",
+                "value": "Sweet Treats Bakery"
+            },
+            {
+                "type": "description",
+                "value": "Fresh pastries and coffee."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 2.0
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "latitude": 37.7759,
+        "longitude": -122.4182,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "museum"
+            },
+            {
+                "type": "name",
+                "value": "Metreon Science Center"
+            },
+            {
+                "type": "description",
+                "value": "Interactive science exhibits."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 5.7
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "latitude": 37.7722,
+        "longitude": -122.4199,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "park"
+            },
+            {
+                "type": "name",
+                "value": "Mission Dolores Park"
+            },
+            {
+                "type": "description",
+                "value": "Popular park with city views."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 11.0
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "latitude": 37.7728,
+        "longitude": -122.4220,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "cafe"
+            },
+            {
+                "type": "name",
+                "value": "Market Street Coffee"
+            },
+            {
+                "type": "description",
+                "value": "Local coffee shop."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 3.8
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "latitude": 37.7775,
+        "longitude": -122.4201,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "museum"
+            },
+            {
+                "type": "name",
+                "value": "Sound Waves Museum"
+            },
+            {
+                "type": "description",
+                "value": "Museum of music and sound."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 4.2
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "latitude": 37.7732,
+        "longitude": -122.4212,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "bar"
+            },
+            {
+                "type": "name",
+                "value": "First Call Bar"
+            },
+            {
+                "type": "description",
+                "value": "Full-service bar with live entertainment."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 4.4
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "latitude": 37.7757,
+        "longitude": -122.4208,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "restaurant"
+            },
+            {
+                "type": "name",
+                "value": "HealthPlus Diner"
+            },
+            {
+                "type": "description",
+                "value": "Healthy meals and smoothies."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 5.2
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "latitude": 37.7743,
+        "longitude": -122.4225,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "landmark"
+            },
+            {
+                "type": "name",
+                "value": "Coit Tower"
+            },
+            {
+                "type": "description",
+                "value": "Historic tower offering panoramic views."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 4.9
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "latitude": 37.7720,
+        "longitude": -122.4205,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "cafe"
+            },
+            {
+                "type": "name",
+                "value": "Bean There Cafe"
+            },
+            {
+                "type": "description",
+                "value": "Artisan coffee and light bites."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 3.0
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "latitude": 37.7763,
+        "longitude": -122.4222,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "bar"
+            },
+            {
+                "type": "name",
+                "value": "The Rusty Nail"
+            },
+            {
+                "type": "description",
+                "value": "Old-school bar with a vintage vibe."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 7.6
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "latitude": 37.7751,
+        "longitude": -122.4218,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "restaurant"
+            },
+            {
+                "type": "name",
+                "value": "Tech Hub Bistro"
+            },
+            {
+                "type": "description",
+                "value": "Modern eatery with innovative dishes."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 6.8
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "latitude": 37.7727,
+        "longitude": -122.4191,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "landmark"
+            },
+            {
+                "type": "name",
+                "value": "Ferry Building"
+            },
+            {
+                "type": "description",
+                "value": "Historic ferry terminal with shops and eateries."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 3.4
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "latitude": 37.7736,
+        "longitude": -122.4175,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "landmark"
+            },
+            {
+                "type": "name",
+                "value": "Chinatown Gate"
+            },
+            {
+                "type": "description",
+                "value": "Entrance to the historic Chinatown district."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 4.5
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "latitude": 37.7725,
+        "longitude": -122.4202,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "park"
+            },
+            {
+                "type": "name",
+                "value": "South Park"
+            },
+            {
+                "type": "description",
+                "value": "Small neighborhood park."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 9.0
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "latitude": 37.7772,
+        "longitude": -122.4176,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "cafe"
+            },
+            {
+                "type": "name",
+                "value": "Paper & Ink Cafe"
+            },
+            {
+                "type": "description",
+                "value": "Coffee shop with a literary theme."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 2.7
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "latitude": 37.7775,
+        "longitude": -122.4160,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "bar"
+            },
+            {
+                "type": "name",
+                "value": "The Speakeasy"
+            },
+            {
+                "type": "description",
+                "value": "Prohibition-era themed bar."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 5.5
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "latitude": 37.7721,
+        "longitude": -122.4183,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "restaurant"
+            },
+            {
+                "type": "name",
+                "value": "Blooming Blossoms Eatery"
+            },
+            {
+                "type": "description",
+                "value": "Fine dining with a floral theme."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 7.2
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "latitude": 37.7768,
+        "longitude": -122.4210,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "landmark"
+            },
+            {
+                "type": "name",
+                "value": "City Lights Bookstore"
+            },
+            {
+                "type": "description",
+                "value": "Historic bookstore and publishing house."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 3.3
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "latitude": 37.7710,
+        "longitude": -122.4190,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "restaurant"
+            },
+            {
+                "type": "name",
+                "value": "Bayview Bistro"
+            },
+            {
+                "type": "description",
+                "value": "Seafood specialties with a bay view."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 9.5
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "latitude": 37.7780,
+        "longitude": -122.4150,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "bar"
+            },
+            {
+                "type": "name",
+                "value": "Skyline Bar"
+            },
+            {
+                "type": "description",
+                "value": "Rooftop bar with panoramic city views."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 7.0
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "latitude": 37.7739,
+        "longitude": -122.4230,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "museum"
+            },
+            {
+                "type": "name",
+                "value": "History Museum"
+            },
+            {
+                "type": "description",
+                "value": "Exhibits showcasing the city's past."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 5.8
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "latitude": 37.7705,
+        "longitude": -122.4180,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "cafe"
+            },
+            {
+                "type": "name",
+                "value": "Sunrise Cafe"
+            },
+            {
+                "type": "description",
+                "value": "Breakfast and brunch specials."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 3.2
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "latitude": 37.7744,
+        "longitude": -122.4245,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "park"
+            },
+            {
+                "type": "name",
+                "value": "Jackson Square Park"
+            },
+            {
+                "type": "description",
+                "value": "Small park with a playground."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 8.1
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "latitude": 37.7795,
+        "longitude": -122.4165,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "landmark"
+            },
+            {
+                "type": "name",
+                "value": "Lombard Street"
+            },
+            {
+                "type": "description",
+                "value": "Famous winding street known for its sharp turns."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 6.4
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "latitude": 37.7715,
+        "longitude": -122.4205,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "restaurant"
+            },
+            {
+                "type": "name",
+                "value": "Pasta Palace"
+            },
+            {
+                "type": "description",
+                "value": "Authentic Italian cuisine."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 8.7
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "latitude": 37.7785,
+        "longitude": -122.4140,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "bar"
+            },
+            {
+                "type": "name",
+                "value": "The Hidden Tap"
+            },
+            {
+                "type": "description",
+                "value": "Craft beers and live music."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 5.9
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "latitude": 37.7720,
+        "longitude": -122.4235,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "museum"
+            },
+            {
+                "type": "name",
+                "value": "Children's Creativity Museum"
+            },
+            {
+                "type": "description",
+                "value": "Interactive exhibits for kids."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 4.6
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "latitude": 37.7755,
+        "longitude": -122.4175,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "cafe"
+            },
+            {
+                "type": "name",
+                "value": "Urban Grind"
+            },
+            {
+                "type": "description",
+                "value": "Hip coffee shop with urban decor."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 3.3
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "latitude": 37.7747,
+        "longitude": -122.4199,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "park"
+            },
+            {
+                "type": "name",
+                "value": "Patricia's Green"
+            },
+            {
+                "type": "description",
+                "value": "Community park with art installations."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 7.4
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "latitude": 37.7718,
+        "longitude": -122.4185,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "landmark"
+            },
+            {
+                "type": "name",
+                "value": "Palace of Fine Arts"
+            },
+            {
+                "type": "description",
+                "value": "Historic building and theater."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 9.0
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "latitude": 37.7700,
+        "longitude": -122.4210,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "restaurant"
+            },
+            {
+                "type": "name",
+                "value": "Sushi Central"
+            },
+            {
+                "type": "description",
+                "value": "Fresh sushi and sashimi."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 8.2
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "latitude": 37.7788,
+        "longitude": -122.4155,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "bar"
+            },
+            {
+                "type": "name",
+                "value": "Jazz & Gin"
+            },
+            {
+                "type": "description",
+                "value": "Jazz bar with gin cocktails."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 6.1
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "latitude": 37.7712,
+        "longitude": -122.4240,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "museum"
+            },
+            {
+                "type": "name",
+                "value": "Maritime Museum"
+            },
+            {
+                "type": "description",
+                "value": "Nautical artifacts and historic ships."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 5.3
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "latitude": 37.7753,
+        "longitude": -122.4165,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "cafe"
+            },
+            {
+                "type": "name",
+                "value": "Brewed Awakening"
+            },
+            {
+                "type": "description",
+                "value": "Organic coffee and teas."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 3.6
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "latitude": 37.7733,
+        "longitude": -122.4225,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "park"
+            },
+            {
+                "type": "name",
+                "value": "Alamo Square Park"
+            },
+            {
+                "type": "description",
+                "value": "Home of the famous Painted Ladies."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 7.8
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "latitude": 37.7708,
+        "longitude": -122.4195,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "landmark"
+            },
+            {
+                "type": "name",
+                "value": "Twin Peaks"
+            },
+            {
+                "type": "description",
+                "value": "Scenic overlook with panoramic city views."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 9.7
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "latitude": 37.7790,
+        "longitude": -122.4158,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "restaurant"
+            },
+            {
+                "type": "name",
+                "value": "The Steakhouse"
+            },
+            {
+                "type": "description",
+                "value": "Premium steaks and fine dining."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 8.9
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "latitude": 37.7724,
+        "longitude": -122.4238,
+        "attributes": [
+            {
+                "type": "location_type",
+                "value": "bar"
+            },
+            {
+                "type": "name",
+                "value": "The Ale House"
+            },
+            {
+                "type": "description",
+                "value": "Wide selection of ales and lagers."
+            },
+            {
+                "type": "estimated_revenue_millions",
+                "value": 6.7
+            }
+        ]
+    }
+]

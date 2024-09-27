@@ -11,7 +11,10 @@ import SwiftUI
 struct MapifyApp: App {
     var body: some Scene {
         WindowGroup {
-            Text("Mapify")
+            let viewModel = MapViewModel()
+            let coordinator = MapCoordinator(viewModel: viewModel)
+
+            coordinator.start()
         }
     }
 }
